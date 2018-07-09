@@ -32,7 +32,7 @@ alias python=python3
 Create a symlink between **python3** and **python** (unless 100% sure, don't do this)
 
 ```
-sudo ln -s /usr/bin/python /usr/bin/python3
+sudo ln -s /usr/bin/python3 /usr/bin/python
 ```
 
 Create a symlink between **pip3** and **pip** (unless 100% sure, don't do this)
